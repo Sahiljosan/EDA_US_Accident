@@ -1,7 +1,7 @@
-US_Accidents_Exploratory_Data_Analysis
+# US_Accidents_Exploratory_Data_Analysis
 
 
-Questions to ask from this dataset
+### Questions to ask from this dataset
 - 1) Which 5 states have the highest number of accidents?
 - 2) Top 100 cities in number of accidents
 - 3) What time of the day are accidents most frequent in ?
