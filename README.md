@@ -1,5 +1,6 @@
 # US_Accidents_Exploratory_Data_Analysis
 
+![](https://i.imgur.com/xzuJnK1.jpg)
 
 ### Questions to ask from this dataset
 - 1) Which 5 states have the highest number of accidents?
